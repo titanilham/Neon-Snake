@@ -10,7 +10,7 @@
 
 ### Preview: 
  ![](https://github.com/titanilham/Neon-Snake/blob/main/Snake-Neon.gif?raw=true)
-
+<a src="https://653d19d0aa0d3436e6ebe516--effortless-kitten-e4233b.netlify.app/">Click to go to the site with the game <a/>
 
 
 
