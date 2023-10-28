@@ -11,7 +11,7 @@
 ### Preview: 
  ![](https://github.com/titanilham/Neon-Snake/blob/main/Snake-Neon.gif?raw=true)
 
-<a href="https://653d19d0aa0d3436e6ebe516--effortless-kitten-e4233b.netlify.app/">Click to go to the site with the game <a/>
+<a href="https://653d19d0aa0d3436e6ebe516--effortless-kitten-e4233b.netlify.app/">Click to go to the site with the game <a/><img src="https://github.com/titanilham/Neon-Snake/blob/main/click.png?raw=true" width="15"/>
 
 
 
