@@ -9,7 +9,7 @@
 
 
 ### Preview: 
- 
+ ![](https://github.com/titanilham/Neon-Snake/blob/main/Snake-Neon.gif?raw=true)
 
 
 
