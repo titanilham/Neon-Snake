@@ -1,5 +1,5 @@
 <div align="start">
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=30&pause=1000&color=13F000&background=0071FF00&random=false&width=435&lines=Neon+Snake+Game" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=27&pause=1000&color=11E900&random=false&width=435&lines=Neon+Snake+Game" alt="Typing SVG"/>
 </div>
 
 ### Languages:
